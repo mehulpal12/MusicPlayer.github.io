@@ -45,18 +45,9 @@ i {
 
 @media screen and (max-width:980px) {
   .main{
-    /* background-color: black; */
-    /* background-image: none; */
     background-position: center;
   }
   .songItems{
     width: 100%;
-  }
-  #masterSongName{
-    /* color: white;
-     left: 5vw;
-      position: relative;
-       top: 14vw; 
-       font-size: 1.5rem; */
   }
 }
